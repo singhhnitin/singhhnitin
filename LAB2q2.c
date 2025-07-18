@@ -9,10 +9,6 @@ int gcd(int a, int b) {
 }
 
 int main(int argc, char *argv[]) {
-    if (argc != 3) {
-        printf("Usage: %s <inputfile> <outputfile>\n", argv[0]);
-        return 1;
-    }
 
     FILE *in = fopen(argv[1], "r");
     if (in == NULL) {
