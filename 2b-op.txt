@@ -1,0 +1,5 @@
+The GCD of 20 and 30 is 10
+The GCD of 12 and 4 is 4
+The GCD of 22 and 2 is 2
+The GCD of 44 and 4 is 4
+The GCD of 66 and 33 is 33
